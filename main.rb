@@ -8,6 +8,7 @@ puts "create our borrowers"
 mike = Borrower.new("Mike")
 ricardo = Borrower.new("Ricardo")
 gilbert = Borrower.new("Gilbert")
+
 puts "-------------------------"
 
 puts "create our books"
